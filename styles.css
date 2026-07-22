@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+    color:rgb(110, 67, 11);
+    background-color: rgb(226, 198, 145);
+    font-weight: bolder;
+    padding:3%;
+    font-size: 50px;
+    border-radius:25px;
+}
+
+.navbar{
+    color:rgb(226, 198, 145);
+    background-color:rgb(110, 67, 11 );
+    font-size: large;
+    border-radius: 5px;
+    padding:0.5%;
+    text-decoration: none;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(110, 67, 11);
+    color:rgb(226, 198, 145);
+    text-align: center;
+}
+#p1{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+#parentDiv{
+    display:flex;
+
+}
+.project{
+    background-color: rgb(226, 198, 145);
+    color:rgb(110, 67, 11);
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: left;
+    height:400px;
+    width: 400px;
+    border-radius: 25px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 1%;
+    padding-top: 1%;
+    flex:1;
+    bottom: 0;
+    text-decoration: none;
+}
+.pictures{
+    border-radius: 25px;
+    border-color: rgb(110, 67, 11);
+    height: 200px;
+    position: relative;
+    bottom:-50px;
+}
+#p2{
+    font-size: medium;
+    padding: 0%;
+
+}
